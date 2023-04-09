@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.heading{
+    background-color: 192,192,192 ;
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   width: 350px;
+   margin-left: -100px;
+   height: 50px;
+   margin-top: -25px;
+
+}
+.st{
+color: #666362;
+}
+.nd{
+    text-align: center;
+    color: white;
+}
+/* #arrowWin{
+    width:100vm;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+div.arrow{
+    width:5vm;
+    height: 5vm;
+    border:2.5vm solid;
+    border-color: black ;
+    transform: rotate(-45deg);
+} */
+.container{
+    
+    align-items: center;
+   justify-content: center;
+    
+}
+img{
+    max-width: 25%;
+    max-height: 15%;
+    padding-top:5% ;
+    float:left;
+}
+.text{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top:5% ;
+    float: left;
+}

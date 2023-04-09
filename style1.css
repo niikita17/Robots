@@ -1,0 +1,20 @@
+content{
+position:absolute;
+top:35%;
+left:8%
+}
+.content p{
+    color: #757575;
+    width:55%;
+    margin: top 25px;
+    margin-bottom: 30px;
+}
+body{
+    background-color:  #d0eaff;;
+}
+ul li{
+    color: #757575;
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
